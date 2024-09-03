@@ -1,5 +1,5 @@
 # About Me:
-Currently a CS grad based in SF, bay area. I'm working on price modeling in 5g networks. If you're looking to develop/collaborate on low-level projects hmu, let's make something cool. Looking for full-time software engineering opportunities based in US.
+Currently a CS grad out of San Francisco, bay area. I'm working on price modeling in 5g networks. If you're looking to develop/collaborate on low-level projects hmu, let's make something cool. Looking for full-time software engineering opportunities based in US.
 
 
 ## 🌐 Socials:
